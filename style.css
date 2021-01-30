@@ -1,0 +1,68 @@
+
+table {
+    align-content: center;
+    border: solid;
+    color: black;
+}
+
+.specialite {
+    text-align: center;
+    border: 5px solid black;
+    width: 800px;
+    
+}
+.competences {
+ color: rgb(216, 213, 200);
+    background-color: rgb(70, 70, 95);
+}
+.langues {
+    color: rgb(209, 207, 196);
+    background-color: rgb(79, 79, 114);
+}
+tr {
+    width: 15px;
+    height: 12px;
+    border: 1px solid teal;
+
+}
+td {
+    border: rgb(11, 12, 12);
+    width: 15px; ;
+    height: 50;
+
+}
+h3 {
+    font-size: 50px ;
+    background: cyan;
+}
+ul  li {
+    color: rgb(114, 95, 71);
+    font-size: 15px;
+    
+}
+.premier-stage {
+    font-size: 25px;
+}
+.deuxieme-stage {
+    font-size: 25px;
+}
+.header {
+    border: rgb(53, 107, 133);
+    border-style:solid ;
+    background: cadetblue;
+}
+header{
+    background: cadetblue;
+}
+main{
+    background: cyan;
+}
+footer {
+    background: rgb(110, 243, 243);
+}
+.experience {
+    background: rgb(128, 211, 211);
+}
+.lien {
+    font-size: 22px;
+}
